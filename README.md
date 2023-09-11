@@ -1,16 +1,12 @@
 # simple_online_shopping
 
-A new Flutter project.
+A new online shopping project.
 
-## Getting Started
+## How To Run Project
+1. install fvm
+2. select global version in command "fvm global stable" 
+3. use fvm in command "fvm use stable"
+4. fvm flutter pub get
+5. fvm flutter run 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
